@@ -1,0 +1,46 @@
+#canvas{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    
+}
+
+#brick{
+    display: none;
+}
+#end{
+    display: none;
+}
+#toasttail1{
+    display: none;
+}
+#toasttail1LEFT{
+    display: none;
+}
+#toasttail2{
+    display: none;
+}
+#toasttail2LEFT{
+    display: none;
+}
+#death{
+    display: none;
+}
+#background{
+    display: none;
+}
+#minion1{
+    display: none;
+}
+#minion2{
+    display: none;
+}
+#antagonist{
+    display: none;
+}
+#antagonist2{
+    display: none;
+}
+
+
+
