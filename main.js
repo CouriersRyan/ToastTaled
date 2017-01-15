@@ -182,7 +182,7 @@ function draw(){
     ctx.clearRect(0, 0, 1000, 1000);
     ctx.fillStyle="#FFFFFF";
     ctx.fillRect(0, 0, 1000, 1000);
-    ctx.drawImage(Sprites.background, 0, 0);
+    ctx.drawImage(Sprites.background, 1000, 1000);
     drawSlimeGun()
     drawPieces();
     drawMinions();
