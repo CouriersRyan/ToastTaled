@@ -542,6 +542,7 @@ function loadMap(map){
     var startY = 0;
     var initX = 400;
     var initY = 500;
+    var mod = 25;
     slimegun = [];
     bullets = [];
     pieces = [];
